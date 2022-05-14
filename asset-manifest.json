@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pritam0077/Meme-Generator-App/static/css/main.eff7588d.css",
+    "main.js": "/Pritam0077/Meme-Generator-App/static/js/main.09d8e744.js",
+    "static/media/troll-face.png": "/Pritam0077/Meme-Generator-App/static/media/troll-face.4677306ddc36b400c88d.png",
+    "index.html": "/Pritam0077/Meme-Generator-App/index.html",
+    "main.eff7588d.css.map": "/Pritam0077/Meme-Generator-App/static/css/main.eff7588d.css.map",
+    "main.09d8e744.js.map": "/Pritam0077/Meme-Generator-App/static/js/main.09d8e744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eff7588d.css",
+    "static/js/main.09d8e744.js"
+  ]
+}
